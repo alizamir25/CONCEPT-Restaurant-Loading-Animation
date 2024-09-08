@@ -22,20 +22,20 @@
     color: white;
   }
   @keyframes rotate{
-    from {
+    from{
       transform: rotate(0deg);
     }
-    to {
+    to{
       transform: rotate(360deg);
     }
   }
   @keyframes fadeOut{
-    from {
+    from{
       opacity: 1;
       width: auto;
       height: auto;
     }
-    to {
+    to{
       opacity: 0;
       width: 0;
       height: 0;
